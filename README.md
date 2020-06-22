@@ -1,2 +1,3 @@
 changed line
-another line
+
+removed line
